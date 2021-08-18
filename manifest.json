@@ -9,7 +9,6 @@
     "128": "img/github_1s_vscode_extension.png"
   },
   "browser_action": {
-    "default_popup": "html/index.html",
     "default_title": "github 1s 插件",
     "default_icon": "img/github_1s_vscode_extension.png"
   },
@@ -31,7 +30,5 @@
   "web_accessible_resources": [
     "js/inject.js"
   ],
-  "background": {
-    "page": "html/background.html"
-  }
+  "homepage_url": "https://github.com/Lonely-Mr-zhang/github_1s_vscode"
 }
