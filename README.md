@@ -11,8 +11,8 @@ github1s Google Chrome Extensions
 ## 使用
 - 访问 github 仓库，会在页面左边出现 github_1s_vscode 按钮，点击该按钮就可跳转至当前访问仓库的GitHub1s在线vscode页面
 
-![](./img/url.png)
+![访问github仓库](./img/url.png)
 
-![](./img/button.png)
+![显示github_1s_vscode按钮](./img/button.png)
 
-![](./img/github_vscode.png)
+![跳转github1s网站](./img/github_vscode.png)
