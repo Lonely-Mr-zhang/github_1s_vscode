@@ -1,0 +1,1 @@
+xinference launch --model-name DeepSeek-OCR --model-type image --download_hub huggingface --model-path /home/ubuntu/.cache/modelscope/hub/models/deepseek-ai/DeepSeek-OCR/ --enable-virtual-env --replica 1 --n-gpu auto --cpu-offload false
